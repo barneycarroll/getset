@@ -1,0 +1,28 @@
+{
+  "name": "hgs",
+  "version": "1.0.0",
+  "description": "Does this (Map) have supplied key? Return its value. Otherwise execute supplied factory to set value and return it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barneycarroll/getset.git"
+  },
+  "keywords": [
+    "es7",
+    "bind",
+    "convenience",
+    "map",
+    "weakmap",
+    "method",
+    "getset"
+  ],
+  "author": "barney.carroll@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barneycarroll/getset/issues"
+  },
+  "homepage": "https://github.com/barneycarroll/getset#readme"
+}
